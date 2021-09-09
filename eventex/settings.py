@@ -125,7 +125,7 @@ STATIC_ROOT = BASE_DIR, 'staticfiles'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # django_on_heroku.settings(locals())
-django_heroku.settings(locals())
+# django_heroku.settings(locals())
 
 
 # Email configuration
